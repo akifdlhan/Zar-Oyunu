@@ -1,0 +1,11 @@
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\zaroyunu\zaroyunu\bin\Debug\zaroyunu.exe.config
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\zaroyunu\zaroyunu\bin\Debug\zaroyunu.exe
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\zaroyunu\zaroyunu\bin\Debug\zaroyunu.pdb
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\zaroyunu\zaroyunu\obj\Debug\zaroyunu.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\zaroyunu\zaroyunu\obj\Debug\zaroyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\zaroyunu\zaroyunu\obj\Debug\zaroyunu.Form1.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\zaroyunu\zaroyunu\obj\Debug\zaroyunu.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\zaroyunu\zaroyunu\obj\Debug\zaroyunu.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\zaroyunu\zaroyunu\obj\Debug\zaroyunu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\zaroyunu\zaroyunu\obj\Debug\zaroyunu.exe
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\zaroyunu\zaroyunu\obj\Debug\zaroyunu.pdb
